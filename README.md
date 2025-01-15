@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Naren
+- 👋 Hello, I’m @Naren
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning powershell
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📚 Learning: Cloud | Python | Powershell | DevOps
+- - 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me - narensempire@gmail.com
 
 <!---
 narensempire/narensempire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
